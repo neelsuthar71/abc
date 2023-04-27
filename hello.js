@@ -13,3 +13,6 @@ function main(){
     console.log("Smaller");
   }
 }
+
+console.log("Final commmits");
+
