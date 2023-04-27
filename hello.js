@@ -1,4 +1,5 @@
 console.log("hello world");
-console.log("This will run in browser");
 
 console.log("Thank you");
+console.log("Welcome to JavaScript Programming"); // new commits
+
